@@ -10,10 +10,8 @@ you  can do the following task with this converter
 
 ---
 
-* binary -->  decimal / octal / hexadecimal
 * decimal --> octal   / binary /hexadecimal
-* octal -->   decimal / binary /hexadecimal
-* hexadecimal --> binary / decimal / octal
+
 ---
 
 
